@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kubassus
 - 👀 I’m interested in games, programing and ethical hacking
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
